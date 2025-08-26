@@ -1,7 +1,7 @@
-Full Name:
-GitHub ID:
-Binghamton CS userid:
-Discord name:
+Full Name:Evan Bennett
+GitHub ID:ebennett02
+Binghamton CS userid:ebennett2
+Discord name:moneylover3246
 
 Please type or copy the CS 310 honesty statement here:
 
